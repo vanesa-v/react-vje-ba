@@ -1,8 +1,11 @@
+import ClassComp from "./ClassComp";
 
 const App = () => {
-  return (
-    <div></div>
-  );
-}
+	return (
+		<div>
+			<ClassComp />
+		</div>
+	);
+};
 
 export default App;
